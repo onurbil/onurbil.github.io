@@ -31,6 +31,11 @@ Publications
 ======
 * TENT: Tensorized Encoder Transformer for temperature forecasting, 2021 [[arXiv](https://arxiv.org/pdf/2106.14742.pdf)] [[code](https://github.com/onurbil/TENT)]
 
+Certificates
+======
+* Customer Experience - Advanced Training, Workshop of Mercuri International Germany, 2015
+* Integrated Business Processes with SAP ERP (TERP10), Certificate Course of University of Duisburg-Essen, 2013
+
 Software Skills
 ======
 * Good: Python, Tensorflow, PyTorch, Solidworks, Latex
