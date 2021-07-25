@@ -24,7 +24,7 @@ Work experience
 
 Education
 ======
-* M.S. in Data Science for Decision Making, Maastricht University, 2021
+* M.Sc. in Data Science for Decision Making, Maastricht University, 2021
 * Dipl.-Ing. in Mechanical Engineering, RWTH, 2012
 
 Publications
