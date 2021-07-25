@@ -29,7 +29,7 @@ Education
 
 Publications
 ======
-* TENT: Tensorized Encoder Transformer for temperature forecasting, 2021
+* TENT: Tensorized Encoder Transformer for temperature forecasting, 2021 [arXiv:2106.14742](https://arxiv.org/pdf/2106.14742.pdf)[[code](https://github.com/onurbil/TENT)]
 
 Software Skills
 ======
