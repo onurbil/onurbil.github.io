@@ -1,10 +1,10 @@
 ---
 title: "TENT: Tensorized Encoder Transformer for Temperature Forecasting"
 collection: publications
-permalink: /publication/TENT:-Tensorized-Encoder-Transformer-for-Temperature-Forecasting
+permalink: /publication/TENT-Tensorized-Encoder-Transformer-for-Temperature-Forecasting
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-06-28
-venue: 'Journal 1'
+venue: 'ArXiv'
 paperurl: 'https://arxiv.org/pdf/2106.14742.pdf'
 citation: @article{bilgin2021tent,
   title={TENT: Tensorized Encoder Transformer for Temperature Forecasting},
