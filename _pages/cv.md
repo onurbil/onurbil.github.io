@@ -11,15 +11,13 @@ redirect_from:
 
 Work experience
 ======
-* Feb.2013-Apr. 2020: Dürr Ecoclean GmbH
+* Feb.2013-Apr. 2020: Design Engineer, Dürr Ecoclean GmbH
   * Mechanical design of industrial machines for cleaning and surface processing.
   * Calculation and simulation of mechanical parts and assemblies for structural robustness proof.
   * Preparation of technical specifications for outsourced parts and machines as product group responsible.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Dec. 2011-Aug.2012: Student Assistant, Institute for Machine Elements and System
+  * Design of test appliances and developing of scripts for modalanalysis.
 
 Education
 ======
