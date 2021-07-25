@@ -44,7 +44,7 @@ Language Skills
 
 Social Engagement
 ======
-* Volunteer: FIFA Worldcup 2006, Germany
-* Basketball Trainer: Youth camp organisation Gelecegin Yildizlari, Turkey, 2001-2004
+* Volunteer in FIFA Worldcup 2006, Germany
+* Basketball Trainer in youth camp organisation Gelecegin Yildizlari, Turkey, 2001-2004
 
 
