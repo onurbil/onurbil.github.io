@@ -29,33 +29,26 @@ Education
 
 Publications
 ======
-* TENT: Tensorized Encoder Transformer for temperature forecasting, 2021  [(ArXiv link)](https://arxiv.org/abs/2106.14742).
+* TENT: Tensorized Encoder Transformer for temperature forecasting, 2021
 
 #  <ul>{% for post in site.publications %}
 #    {% include archive-single-cv.html %}
 #  {% endfor %}</ul>
     
-Skills
+Software Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Good: Python, Tensorflow, PyTorch, Solidworks, Latex
+* Intermediate: Java, R, Autodesk Inventor
+* Basic: C, C++, Matlab, Docker
 
-Talks
+Language Skills
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Native: Turkish
+* Fluent: English, German
+
+Social Engagement
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Volunteer: FIFA Worldcup 2006, Germany
+* Basketball Trainer: Youth camp organisation Gelecegin Yildizlari, Turkey, 2001-2004
+
+
