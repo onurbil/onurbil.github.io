@@ -29,9 +29,11 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* TENT: Tensorized Encoder Transformer for temperature forecasting, 2021
+
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
     
 Skills
 ======
