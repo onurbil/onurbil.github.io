@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Onur Bilgin / Site Title"
+title                    : "Onur Bilgin"
 title_separator          : "-"
 name                     : &name "Onur Bilgin"
 description              : &description "personal description"
