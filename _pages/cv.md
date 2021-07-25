@@ -31,10 +31,6 @@ Publications
 ======
 * TENT: Tensorized Encoder Transformer for temperature forecasting, 2021
 
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-    
 Software Skills
 ======
 * Good: Python, Tensorflow, PyTorch, Solidworks, Latex
