@@ -29,7 +29,8 @@ Education
 
 Publications
 ======
-* TENT: Tensorized Encoder Transformer for temperature forecasting, 2021 [[arXiv](https://arxiv.org/pdf/2106.14742.pdf)] [[code](https://github.com/onurbil/TENT)]
+* GCN-FFNN: A Two-Stream Deep Model for Learning Solution to Partial Differential Equations, 2022 [[arXiv]({https://arxiv.org/pdf/2204.13744.pdf)] [[code](https://github.com/onurbil/pde-gcn)]
+* TENT: Tensorized Encoder Transformer for Temperature Forecasting, 2021 [[arXiv](https://arxiv.org/pdf/2106.14742.pdf)] [[code](https://github.com/onurbil/TENT)]
 
 Certificates
 ======
