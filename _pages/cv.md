@@ -17,7 +17,7 @@ Work experience
   * Preparation of technical specifications for outsourced parts and machines as product group responsible.
 
 * Dec. 2011-Aug. 2012: Student Assistant, Institute for Machine Elements and System
-  * Design of test appliances and developing of scripts for modalanalysis.
+  * Design of test appliances and developing of scripts for modal analysis.
 
 * Apr. 2011-Sep. 2011: Internship, Benteler-SGL Automotive Composites
   * Execution of failure mode and effects analysis (FMEA) and fibervolume content measurements.
